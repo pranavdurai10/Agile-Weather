@@ -36,7 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		D011BA812446153900400EA3 /* Agile-Weather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Agile-Weather.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D011BA812446153900400EA3 /* Agile Weather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Agile Weather.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D011BA842446153900400EA3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D011BA862446153900400EA3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		D011BA882446153900400EA3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -91,7 +91,7 @@
 		D011BA822446153900400EA3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D011BA812446153900400EA3 /* Agile-Weather.app */,
+				D011BA812446153900400EA3 /* Agile Weather.app */,
 				D011BA9A2446153B00400EA3 /* Agile-WeatherTests.xctest */,
 				D011BAA52446153B00400EA3 /* Agile-WeatherUITests.xctest */,
 			);
@@ -148,7 +148,7 @@
 			);
 			name = "Agile-Weather";
 			productName = "Agile-Weather";
-			productReference = D011BA812446153900400EA3 /* Agile-Weather.app */;
+			productReference = D011BA812446153900400EA3 /* Agile Weather.app */;
 			productType = "com.apple.product-type.application";
 		};
 		D011BA992446153B00400EA3 /* Agile-WeatherTests */ = {
@@ -446,7 +446,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.pranavdurai.Agile-Weather";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Agile Weather";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -464,7 +464,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.pranavdurai.Agile-Weather";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Agile Weather";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
